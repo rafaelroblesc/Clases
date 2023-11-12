@@ -1,222 +1,222 @@
-No Nombre Periodo2 Ubicación Lápida_y_monumento Tipo_de_Estatuas_ Flores Ofrendas Motivos Ancho Alto Superficie Distribución Sexo Edad Rol_(biografía) Fecha_defunción
-CCE_T27 Francisco_de_Paula_Santander 1 Elipse Monumento Monumento_con_la_estaua_de_Francisco_de_Paula_Santander Ausencia Sin_ofrenda NA 9.5 10.5 99.75 NA Masculino 48 PolíticoypresidentedeColombia 1840
-CCE_T103 José_María_Rivas_Arce 1 Elipse Lápida Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda NA 0.8 1 0.8 NA Maculino 69 NA 1858
-CCE_T124 María_Josefa_Mejia_de_Rivas 1 Elipse Lápida Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda NA 0.8 1 0.8 NA Femenino 75 NA 1869
-CCE_T4 Ezequiel_Rojas 1 Elipse Monumento Monumento_en_mármol_blanco,_de_forma_ascendente,_cercado Ausencia Sin_ofrenda La_tumba_se_encuentra_dividida_en_cuatro_partes_La_parte_inferior_cuenta_con_la_lápida_de_Ezequiel_rojas,_rodeada_por_una_especie_de_plantas_que_subyacen_del_concreto,_enmarcada_por_unas_columnas_neoclásicas_con_representaciones_masonas,_como_los_libros_y_demás_elementos_acádemicos_asociados_al_rito_y_transmisión_de_los_masones_En_el_segundo_nivel_se_encuentra_la_figura_de_una_mujer_reposando_sentada_con_las_manos_entrelazadas,_un_extenso_vestido_que_cubre_todo_su_cuerpo,_pero_que_se_desliza_en_el_lado_derecho_de_la_mujer_en_la_parte_del_hombro_Y_por_ultimo_en_nivel_superior,_el_busto_de_Ezequiel_Rojas_y_su_rostro_bastante_deteriorado 1.8 3 5.4 Parte_central__de_la_elipse,_en_el_sector_A_al_costado_derecho_respecto_a_la_entrada_de_la_26_ Masculino 70 Político 1873
-CCE_T30 Lino_de_Pombo_&_Ana_Rebolledo_de_Pombo 1 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.58 0.6 0.348 NA Masculino_y_femenino NA NA 1873
-CCE_T13 Mariana_Montoya_de_Restrepo 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.6 0.7 0.42 NA Femenino NA NA 1874
-CCE_T116 Antonio_de_Castro_Caicedo 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.59 0.5 0.295 NA Masculino NA NA 1874
-CCE_T118 María_Regla_y_de_Herrera 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.59 0.3363 NA Femenino NA NA 1874
-CCE_T14 Sofía_Arboleda_de_Urdaneta 1 Elipse Monumento Monumento_religioso_y_patriotico,_identitario Ausencia Sin_ofrenda Volumen_sencillo,_que_en_la_parte_superior_cuenta_con_una_piedra_grande_que_sostiene_una_cruz_en_la_cima_de_esta_con_una_corona_de_flores_cruzada_desde_la_parte_izquierda,_con_una_placa_en_la_parte_de_adelante_con_forma_romboide_con_una_corona_de_flores_que_rodea_el_retrato_de_una_mujer,_con_la_inscripción_de_Sofía_Mosquera_Arboleda_de_Urdaneta 2.69 1.8 4.842 Pasillo_central_de_la_Elipse_orientación_Oriental_respecto_a_la_entrada_de_la_elipse_en_el_sentido_de_la_calle_26_Sector_A Femenino 19 HijadelpresidenteJulioArboledaPombo 1875
-CCE_T25 José_María_Gonzalez_ 1 Elipse Monumento NA Ausencia Sin_ofrenda NA 2.21 4.5 9.945 NA Masculino 77 Coroneldelejercito 1878
-CCE_T32 María_Luisa_Carrisoza 1 Elipse Lápida Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda NA 1.2 0.73 0.876 NA Femenino 2 NA 1878
-CCE_T126 Dolores_Ortega_de_Rivas 1 Elipse Lápida Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda NA 0.8 1 0.8 NA Femenino 55 NA 1883
-CCE_T39 Cristobal_Umaña_Barrero 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.47 0.2679 NA Masculino NA NA 1884
-CCE_T117 Antonio_Ruiz 1 Elipse Lápida_y_monumento Lápida_de_gran_tamaño,_de_mármol_gris_de_motivo_neoclásico Ausencia Sin_ofrenda NA 2 0.8 1.6 NA Masculino 65 NA 1884
-CCE_T125 José_María_Rivas_Mejia 1 Elipse Lápida Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda NA 0.8 1 0.8 NA Masculino 56 NA 1884
-CCE_T112 Eustorgio_Salgar 1 Elipse Lápida_y_monumento Lápida_sencilla_y_lápida_conmemorativa_de_presidencia Ausencia Sin_ofrenda NA 0.5 0.25 0.125 NA Masculino 54 Presidente 1885
-CCE_T61 Adelia_Sanchez_de_Posada 1 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.5 0.5 0.25 NA Femenino NA NA 1886
-CCE_T16 Adelia_Cháves_de_Posada 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.5 0.5 0.25 NA Femenino NA NA 1886
-CCE_T76 Carlos_Bonito 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.59 0.3363 NA Masculino NA NA 1886
-CCE_T120 Guillermo_Bonito 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.59 0.3363 NA Masculino NA NA 1886
-CCE_T57 Benito_Posada_Gutierrez 1 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.5 0.5 0.25 NA Masculino NA NA 1887
-CCE_T29 José_María_Samper 1 Elipse Monumento NA ausencia Sin_ofrenda NA 0.88 2.2 1.936 NA Masculino 60 Políticoyabogado 1888
-CCE_T31 Camilo_A_Carrizosa 1 Elipse Lápida Lápida_con_relieve_y_motivos_religiosos Ausencia Sin_ofrenda NA 0.65 0.7 0.455 NA Masculino NA NA 1889
-CCE_T12 Enrique_Umaña_Ricaurte 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.6 0.58 0.348 NA Masculino NA NA 1890
-CCE_T97 Augustinus_Ramos_Et_Mathildis_Ruiz 1 Elipse Lápida_y_monumento Lápida_de_gran_tamaño,_de_mármol_gris_de_motivo_neoclásico Ausencia Sin_ofrenda NA 2 0.8 1.6 NA Masculino_y_femenino NA NA 1891
-CCE_T115 Carmen_C_de_Castro 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.59 0.5 0.295 NA Femenino NA NA 1891
-CCE_T7 Elvira_Silva_Gómez_ 1 Elipse Monumento Monumento_neoclásico,_con_una_columna_intermedia_ Ausencia Sin_ofrenda Columna_de_tipo_dorica_en_la_parte_media_del_monumento,_con_una_cruz_en_la_parte_superior_con_un_manto_cubriendo_la_parte_derecha_y_una_corona_de_flores_cruzada_desde_la_parte_izquierda,_sumando_en_la_parte_trasera_dos_coronas_de_flores_en_medio_de_la_tumba 2.69 1.79 4.8151 Pasillo_central_de_la_Elipse_con_sentido_occidental_respeto_a_la_entrada_de_la_calle_26_Sector_O Femenino 20 Jovendegranbelleza 1892
-CCE_T104 Antonio_R_Cuervo 1 Elipse Lápida_y_monumento Lápida_de_gran_tamaño,_de_mármol_gris_con_busto_del_general Ausencia Sin_ofrenda NA 2.2 1.39 3.058 NA Masculino 59 General 1893
-CCT_T78 Paula_A_Maldonado 1 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.6 0.58 0.348 NA Femenino NA NA 1895
-CCE_T33 Mercedes_Umaña_de_Triana 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.63 0.48 0.3024 NA Femenino 53 NA 1895
-CCE_T119 Ana_Bonito_U 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.59 0.3363 NA Femenino NA NA 1895
-CCE_T121 Jacinta_Tobar_de_Umaña 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.47 0.2679 NA Femenino NA NA 1895
-CCE_T1 José_Asunción_Silva_ 1 Elipse Monumento Especie_de_Mausoleo_neoclásico_con_una_columba_intermedia Ausencia Sin_ofrenda Columna_de_tipo_dorica_en_la_parte_media_del_monumento,_con_una_cruz_en_la_parte_superior_con_un_manto_cubriendo_la_parte_derecha_y_una_corona_de_flores_cruzada_desde_la_parte_izquierda,_sumando_en_la_parte_trasera_dos_coronas_de_flores_en_medio_de_la_tumba 2.69 1.79 4.8151 Pasillo_central_de_la_Elipse_con_sentido_occidental_respeto_a_la_entrada_de_la_calle_26_Sector_O Masculino 31 Escritor 1896
-CCE_T53 María_Francisca_Ssamper 1 Elipse Lápida_y_monumento NA Ausencia Sin_ofrenda NA 1.5 0.5 0.75 NA Femenino 21 NA 1899
-CCE_T6 Guillermo_de_Castro_Uricochea 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.59 0.5 0.295 NA Masculino 70 NA 1900
-CCE_T109 José_Ma_Cespedes_López 1 Elipse Lápida Lápida_sencilla_en_mármol_blanco Ausencia Sin_ofrenda NA 0.56 0.49 0.2744 NA Masculino NA NA 1900
-CCE_T111 Teodosia_Bermúdez_González 1 Elipse Lápida Lápida_sencilla_de_mármol_blanco_y_grisaceo Ausencia Sin_ofrenda NA 0.6 0.5 0.3 NA Femenino NA NA 1900
-CCE_T24 Luis_Felipe_Escobar 1 Elipse Lápida_y_monumento Lápida_piedra_cáfe_con_decoraciones_neoclásicas_y_motivos_de_rocas Ausencia Sin_ofrenda NA 1.75 0.56 0.98 NA Masculino 60 NA 1901
-CCE_T101 Medardo_Rodriguez 1 Elipse Lápida Lápida_sencilla Presencia Sin_ofrenda NA 0.72 0.62 0.4464 NA Masculino NA NA 1901
-CCE_T106 Gertrudis_Hurtado_C 1 Elipse Lápida _Lápida_sencilla Ausencia Sin_ofrenda NA 0.45 0.53 0.2385 NA Femenino NA NA 1902
-CCE_T17_ Epifanio_Garay 1 Elipse Lápida_y_monumento Lápida_sencilla Ausencia Sin_ofrenda NA 1.11 0.53 0.5883 NA Masculino NA NA 1903
-CCE_T28 Familia_Fonega_Tamayo 1 Elipse Lápida_y_monumento Lápida_sencilla Ausencia Sin_ofrenda NA 1.81 2.05 3.7105 NA Masculino_y_femenino NA NA 1903
-CCE_T95 Salomon_Arana_Fonseca 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1905.00
-CCE_T52 Santiago_Samper 1 Elipse Lápida_y_monumento NA Ausencia Sin_ofrenda NA 1.5 0.5 0.75 NA Masculino 52 NA 1906
-CCE_T15 Jacinto_M_Ruiz 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Masculino NA General 1907
-CCE_T123 Dolores_Arroyo_de_Pombo 1 Elipse Lápida _Lápida_sencilla Ausencia Sin_ofrenda NA 0.45 0.4 0.18 NA Femenino 54 NA 1907
-CCE_T5 Miguel_Antonio_Caro 1 Elipse Monumento Arquitectura_republicana,_neoclásica Ausencia Sin_ofrenda Es_una_tumba_grande,_amplia,_que_esta_delimitada_por_una_franja_de_cadenas_que_lo_custodian_Se_puede_observar_una_uniformidad_de_piedra_en_la_casi_totalidad_de_la_tumba_exceptuando_el_busto,_que_parece_de_algún_metal_Se_pueden_observar_dos_cruces,_una_en_la_parte_superior_del_pilar_en_la_tumba,_y_en_la_pare_frontal_inferior_donde_se_encuentra_el_fallecido_Encima_de_esta_en_la_parte_media_baja,_se_puede_observar_el_escudo_de_Colombia_con_el_Condor_en_la_parte_superior_de_este_Además_de_porsupuesto_el_busto_de_Miguel_Antonio_Caro_que_sobresale_en_la_tumba 2.69 3.5 9.415 Se_encuentra_en_el_sector_A,_en_pasillo_central_en_la_parte_derecha_apenas_se_ingresa_a_la_elipse_ Masculino 66 Político 1909
-CCE_T110 Mercedes_de_la_Roche 1 Elipse Lápida Lápida_sencilla_de_mármol_blanco_y_grisaceo Ausencia Sin_ofrenda NA 0.59 0.47 0.2773 NA Femenino NA NA 1910
-CCE_T51 Felix_Medina_Torres 1 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.54 0.3 0.162 NA Masculino NA NA 1911
-CCE_T22 Josefa_Torres_de_Medina 1 Elipse Lápida_y_monumento Lápida_sencilla Presencia Con_ofrenda NA 0.54 0.3 0.162 NA Femenino NA NA 1911
-CCE_T59 Soledad_Umaña_de_Bonito 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.56 0.6 0.336 NA Femenino NA NA 1911
-CCE_T20 Rafel_Pombo 1 Elipse Monumento Bloque_de_mármol_gris_con_forma_de_altar Ausencia Sin_ofrenda Monumento_con_forma_de_altar_con_una_inscripción_en_la_parte_superior_de_lo_que_parece_un_libro,_además_de_una_cruz_cristiana_que_se_encuentra_en_el_centro_de_la_estructura,_en_la_parte_superior_del_nombre_del_escritor_ 1.82 0.7 1.274 Ubicado_en_el_Sector_I_de_la_Elipse_En_el_camellón_interno_sur_A Masculino 79 Escritor 1912
-CCE_T18 Lucía_de_Balcazar 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.63 0.7 0.441 NA Femenino NA NA 1912
-CCE_T107 Elvira_Cortes 1 Elipse Lápida_y_monumento Lápida_sencilla_parte_de_un_monumento Ausencia Sin_ofrenda NA 0.5 0.6 0.3 NA Femenino 1 Recien_nacida 1912
-CCE_T108 Enrique_Cortes 1 Elipse Lápida_y_monumento Lápida_sencilla_parte_de_un_monumento Ausencia Sin_ofrenda NA 1.18 1.13 1.3334 NA Masculino 74 NA 1912
-CCE_T2 Soledad_Acosta_Samper 1 Elipse Lápida Lápida_sencilla_de_forma_rectangular Ausencia Sin_ofrenda Lápida_sencilla,_de_no_muy_altas_características_visibles_de_la_escritora,_se_ve_bastante_descuidada,_sin_algún_tipo_de_cuidado_alguno,_e_incluso_un_poco_de_olvido NA NA NA Ubicada_en_la_parte_central_de_la_elipse_hacía_el_costado_oriental_del_pasillo_central_Sector_F Femenino 80 Escritora 1913
-CCE_T102 Manuel_José_Concha 1 Elipse Lápida_y_monumento Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.47 0.2679 NA Masculino NA NA 1913
-CCE_T105 Leopoldo_Pombo_Arroyo 1 Elipse Lápida _Lápida_sencilla Ausencia Sin_ofrenda NA 0.45 0.4 0.18 NA Masculino 68 NA 1913
-CCE_T122 Juan_B_Pombo_Arroyo 1 Elipse Lápida _Lápida_sencilla Ausencia Sin_ofrenda NA 0.45 0.4 0.18 NA Masculino 66 NA 1913
-CCE_T21 Rafael_Uribe_Uribe 1 Elipse Monumento Monumento_de_distintos_materialies Ausencia Sin_ofrenda Monumento_de_forma_de_templo_con_sus_respectivas_columnas_dóricas,_multiples_decoraciones_del_estilo_neoclásico,_el_busto_del_fallecido_en_bronce_así_como_el_escudo_de_Colombia_en_la_parte_central_y_frontal_del_monumento,_así_como_la_fecha_de_su_fallecimiento_escrito_en_latín_y_en_números_romanos_Además_de_una_gran_reja_que_ocupa_gran_parte_del_espacio 3.69 4.5 16.605 Ubicado_en_el_sector_P_de_la_Elipse,_por_el_camellón_interno_b,_en_sentido_oriental_respecto_a_la_entrada_de_la_26 Masculino 55 Político 1914
-CCE_T14 Concepción_Vargas_de_Bermudez 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 1914
-CCE_T113 Sinforosa_Florez_de_Salgar 1 Elipse Lápida_y_monumento Lápida_sencilla Ausencia Sin_ofrenda NA 0.53 0.3 0.159 NA Femenino NA NA 1914
-CCE_T26 Felipe_Zapata_Cuenca 1 Elipse Lápida_y_monumento Lápida_de_gran_tamaño_de_mármol_gris_parte_de_un_monumento_en_piedra Ausencia Sin_ofrenda NA 0.5 0.76 0.38 NA Masculino 30 NA 1915
-CCE_T114 Ines_Rey_de_Rodriguez 1 Elipse Lápida Lápida_sencilla Flores Sin_ofrenda NA 0.72 0.62 0.4464 NA Femenino NA NA 1915
-CCE_T45 Pedro_Julio_Bernal 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.6 0.6 0.36 NA Masculino NA NA 1965
-CCT_T26 Yezid_Tellez 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.65 0.7 0.455 NA Masculino NA NA 1965
-CCE_T74 Salustia_G_v_de_Martinez 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1966
-CCE_T77 Julio_Carrillo_Guzman 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1966
-CCE_T79 Alberto_Martinez_Londoño 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino 8 NA 1966
-CCE_T81 Jose_Vicente_Lozada_D 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1966
-CCE_T55 Carlos_Ceballos_C 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Masculino NA NA 1967
-CCE_T66 María_O_V_De_Quintero 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
-CCE_T67 Catalina_M_Quiroga 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino 60 NA 1967
-CCE_T68 Elias_Hernández_ 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
-CCE_T69 Ricardo_Sánchez_R 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
-CCE_T70 María_de_Jesús_L_v_de_Olaya 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
-CCE_T71 Ludovina_M_v_de_Murcia 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
-CCE_T72 Hernando_Caviedes_Neira 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
-CCE_T73 Alba_Mahecha_de_Torres 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino 36 NA 1967
-CCE_T75 Noema_Gomez_Acevedo 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
-CCE_T78 Albertina_P_de_López 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
-CCE_T82 Francisco_Muñoz_A 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
-CCE_T83 Jose_Ignacio_Burbano_Ch 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
-CCE_T84 María_Ines_V_ 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.19 0.2 0.038 NA Femenino 42 NA 1967
-CCE_T87 Gladys_Emma_Angel_Ch 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
-CCE_T88 Alicia_Millan_de_Carrillo_ 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino 50 NA 1967
-CCE_T90 Mam 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA NA NA NA 1967
-CCE_T91 Ricardo_Mejia_Vásquez 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
-CCE_T99 Lola_Piedrahita 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
-CCT_T10 Salomón_Arana_Fonseca 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_beteado Ausencia Con_ofrenda Lápida_sencilla,_con_poca_decoración_Se_puede_observar_en_un_cuarto_de_la_lápida_la_ubicación_de_una_cruz,_la_única_representación_religiosa_y_posiblemente_la_más_importante_al_representar_la_no_entrada_de_la_muerte_a_la_casa_de_los_egipcios_durante_la_última_plaga_Cuenta_además_con_un_broche_que_puede_ser_un_tipo_de_ofrenda_de_algún_conocido 0.3 0.28 0.084 Ubicada_en_la_parte_oriental_del_trapecio_junto_a_la_parte_posterior_de_la_elipse_ Masculino NA NA 1967
-CCE_T64 Calos_Felipe_Echeverri_Cortes 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.7 0.6 0.42 NA Masculino NA NA 1968
-CCE_T96 Rafel_Perez_G 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1968
-CCE_T92 Rafael_A_Hernandez_G 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1969
-CCE_T93 Josefa_Peña_Mendieta 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1969
-CCE_T100 Gustavo_León_Moncaleano 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1969
-CCT_T65 Rafael_Fajardo_Pinzón 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino NA NA 1969
-CCE_T65 Sister_Ines_Marie_Echeverri_ 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.7 0.6 0.42 NA Femenino NA Monja 1970
-CCE_T97 Arturito_Avendaño 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1970
-CCE_T54 Ines_Posada_de_Venegas 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.68 0.68 0.4624 NA Femenino NA NA 1971
-CCE_T94 Rosa_M_Farfan_Camelo 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1971
-CCE_T48 Ana_Infante 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.45 0.2 0.09 NA Femenino NA NA 1972
-CCE_T58 Eduardo__Chavez_Posada 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Masculino NA NA 1972
-CCE_T62 Luis_Echeverri_Cortes 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.68 0.6 0.408 NA Masculino NA NA 1972
-CCE_T63 Carlos_Echeverri_Cortes 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.7 0.6 0.42 NA Masculino NA NA 1974
-CCE_T19 Gustavo_Rojas_Pinilla 1 Elipse Monumento Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda Lápida_de_forma_rectangular,_ubicada_de_forma_vertical_en_el_suelo,_con_un_escalón_Como_tal_no_presenta_ningún_símbolo_distintivo,_sin_embargo,_si_muestra_una_frase_que_dice_"caudillo_del_pueblo" 1.8 1 1.8 NA Masculino 75 Político 1975
-CCE_T50 Martha_ES_de_Rodriguez 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1975
-CCT_T35 Indalecio_Ramos_P 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino 73 NA 1975
-CCT_T58 Emma_Fajardo_pinzón 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 1975
-CCT_T73 Demetrio_Camargo 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1975
-CCE_T56 Leonor_P_V_de_Ceballos 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Femenino NA NA 1976
-CCE_T89 María_A_de_Espinoza 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1976
-CCE_T80 María_Castro_v_de_Sarmiento 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino 77 NA 1978
-CCT_T27 Gustavo_Tellez_Max 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.65 0.7 0.455 NA Masculino NA NA 1979
-CCE_T59 Hernando_Chavez_Posada 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Masculino NA NA 1980
-CCT_T56 Helena_Pombo_de_Soto 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino 61 NA 1980
-CCT_T77 Alejandro_Escandon_Santos 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.65 0.65 0.4225 NA Masculino 77 NA 1980
-CCT_T13 Alejandrina_Zamudio_de_Moreno 2 Trapecio Lápida Lápida_interna_con_contorno_en_piedra_verde_oscura Presencia Sin_ofrenda Lápida_en_piedra,_posiblemente_en_mármol_blanco_con_ciertas_betas_color_gris,_las_cuales_se_pueden_observar_a_lo_largo_de_la_lápida_En_la_parte_Inferior_se_encuentra_el_nombre_de_Alejandrina,_ocupando_casi_que_un_sexto_de_la_estructura,_en_caso_de_hacer_una_cuadricula_de_2_x3_Su_nombre_se_encuentra_bajo_la_virgen_que_es_internmedia_entre_ella_y_su_esposo_(¿?),_y_la_colocación_del_lugar_de_deposito_de_flores 1.08 0.74 0.7992 Galeria_interna_occidental_ Femenino NA NA 1981
-CCE_T23 Alicia_Cardenas_ 2 Elipse Lápida_y_monumento Lápida_en_mármol_gris_parte_de_un_monumento_de_la_familia_Cardenas Ausencia Sin_ofrenda NA 0.6 0.59 0.354 NA Femenino 73 NA 1981
-CCE_T98 Ramon_F_Jimeno_Peñaredonda 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1982
-CCT_T22 Paulo_E_Rodriguez 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Una_lápida_sencilla_con_decaroaciones_religiosas_como_una_cruz_inclinada_hacía_el_lado_derecho_Con_la_inscripción_de_su_nombre_en_letra_cursiva_sobresaliendo_de_una_especie_de_pared_rugosa_de_la_que_sale_Además_de_una_inscripción_en_la_parte_superior_de_la_lápida_que_dice_"socio_fundador" 0.6 0.7 0.42 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Masculino 80 SociosdelafederacióndeempleadosdeBogotá 1982
-CCT_T39 Segundo_Rojas_ 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.45 0.2 0.09 NA Masculino NA NA 1984
-CCE_T46 Jaime_Pardo_Leal 2 Elipse Lápida_y_monumento NA Ausencia Sin_ofrenda NA NA NA NA NA Masculino NA NA 1987
-CCE_T34 María_del_Carmen_Cuadros 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1988
-CCE_T35 Mercedes_Gutierrez_V 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1988
-CCE_T40 Mario_Martinez_ 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1988
-CCE_T9 Luis_Carlos_Galán 2 Elipse Lápida Monumento_conmemorativo,_bloque_grande_de_mármol_blanco Presencia Con_ofrenda Bloque_de_mármol_blanco_que_ocupa_alrededor_de_6_mts_de_largo_por_ancho,_con_unas_escalones_de_escaso_tamaño_que_dan_la_noción_de_una_tarima_en_el_centro_de_un_recinto_cuadrado NA NA NA Parte_central_de_la_elipse,_entre_la_calle_26_y_la_calle_24,_en_todo_el_medio_del_camellon_central_Sector_T Masculino 46 Político 1989
-CCE_T36 Enrique_Cifuentes_Bernal 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Femenino 88 NA 1989
-CCE_T47 María_Infante 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.45 0.2 0.09 NA Femenino NA NA 1989
-CCT_T28 Graciela_Martinez_v_De_Eguia 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.65 0.7 0.455 NA Femenino NA NA 1989
-CCE_T3 Carlos_Pizarro_Leongémez 2 Elipse Monumento Monumento_de_conmemoración_moderno Presencia Con_ofrenda Bloque_de_márnol_gris_con_distos_escalones_de_forma_ascendente,_cuenta_con_la_representación_de_una_espada_en_el_centro_de_la_lápida,__fue_restaurada_y_conmemorada_como_monumento_de_la_paz_y_la_vida_ 2.56 0.76 1.9456 Parte_occidental_de_la_elipse_posterior_a_la_ubicación_de_Francisco_de_Paula_Santander_Sector_Q,_anterior_al_camellon_interno_oriental_A Masculino 39 Político 1990
-CCE_T10 Alcides_Doncel_G 2 Elipse Lápida Làpida_sencilla_en_piedra_pulida Presencia Sin_ofrenda Es_una_lapida_de_perqueño_tamaño,_con_ciertos_factores_determinantes_como_el_nùmero_85_de_su_ubicaciòn_en_la_parte_inferior_Cuenta_con_la_inscripciòn_de_la_làpida_reteñida_como_con_tinta_negra,_posiblemente_de_un_marcador_Anexando_ademàs_el_aprecio_de_sus_nietos,_dando_la_informaciòn_de_pues_la_posiciòn_de_Alcides_como_el_abuelo_de_està_familia 0.2 0.2 0.04 Se_encuentra_en_la_parte_derecha_apenas_se_ingresa_a_la_elipse_Sector_D Masculino NA NA 1990
-CCT_T46 Ana_Tulia_Lopez 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1990
-CCT_T66 Gustavo_Fajardo_Pinzón 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino NA NA 1990
-CCT_T92 José_Burgos_Correo 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1990
-CCT_T32 Jorge_E_Marulanda 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1991
-CCT_T33 Willam_Mauricio_Serrato 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1991
-CCT_T34 María_del_Carmen_Aguilera 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1991
-CCT_T37 Ana_Joaquina_C_v_de_Chacón 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1991
-CCT_T48 Cesar_E_Serrano 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1991
-CCT_T57 Margarita_Fajardo_Pinzón 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 1991
-CCT_T41 Patrocinio_Castor 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
-CCT_T42 José_Yesid_Nagles 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
-CCT_T49 Ernesto_Quiroga_Ch 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.45 0.09 NA Masculino NA NA 1992
-CCT_T50 Manuel_Quiroja_Ch 2 Trapecio Lápida NA Arrancado_o_caido Sin_ofrenda NA 0.2 0.45 0.09 NA Masculino NA NA 1992
-CCT_T51 Danelfio_Martinez 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
-CCT_T81 María_Teresa_rodríguez 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1992
-CCT_T83 María_de_Jesús_Paredes 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino 59 NA 1992
-CCT_T84 Carlos_A_Acevedo 2 Trapecio Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
-CCT_T86 José_U_Urrego_Romero 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
-CCT_T88 Dolores_Sabogal 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1992
-CCT_T89 Fernanda_Burgos 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1992
-CCT_T90 Luis_Alberto_Vega 2 Trapecio Lápida NA Arrancado_o_caido Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
-CCT_T94 Orlando_F_Moreno 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
-CCT_T95 Vidal_David_Barrera 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
-CCT_T98 Gabrielina_Rodríguez_de_Acosta 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.45 0.09 NA Femenino 66 NA 1992
-CCT_99 Jhon_Jairo_Hernández 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1993
-CCE_T12 Mar_Lorenza_Escobar 2 Elipse Lápida Lápida_sencilla Presencia Sin_ofrenda NA 0.2 0.2 0.04 Se_encuentra_en_la_parte_derecha_apenas_se_ingresa_a_la_elipse_Sector_D Femenino NA Madre 1993
-CCE_T41 Andrés_Salazar_ 2 Elipse Lápida NA Arrancado_o_caido Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1993
-CCE_T44 Gabriela_Bonilla 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.45 0.2 0.09 NA Femenino NA NA 1993
-CCT_T69 Carlos_J_Romero 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1993
-CCT_T74 Elizabeth_Carrillo_G 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1993
-CCT_T45 Nelsón_F_Vanegas 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1994
-CCT_T62 Ines_Infantino_de_Camacho 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 1994
-CCT_T70 Yolanda_González 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1994
-CCT_T72 Ramón_González 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1994
-CCT_T75 Oscar_F_Arevalo 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino 22 NA 1994
-CCT_T76 Ernesto_Mahecha_A 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1994
-CCT_T43 Pedro_N_Becerra 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1995
-CCT_T47 Hector_Manicel_Vega 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1995
-CCT_T52 Carmen_F_Alfonso 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1995
-CCE_T37 Laura_Rosero_de_Cifuentes 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.3 0.6 0.18 NA Femenino NA NA 1995
-CCT_T71 Barbara_Pardo 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1995
-CCT_T96 José_M_Castro 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1995
-CCT_100 Carlos_Eugenio_Rodríguez 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1996
-CCT_T38 Olga_L_Cortes 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1996
-CCT_T44 Abigail_Morales_de_V 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1996
-CCT_T67 Cecilia_Atuesta_Fajardo 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.3 0.7 0.21 NA Femenino NA NA 1996
-CCT_T14 Daniel_Moreno_Zamudio 2 Trapecio Lápida NA Ausencia Sin_ofrenda Lápida_en_piedra,_posiblemente_en_mármol_blanco_con_ciertas_betas_color_gris,_las_cuales_se_pueden_observar_a_lo_largo_de_la_lápida_En_la_parte_inferioe_se_encuentra_el_nombre_de_Daniel,_ocupando_casi_que_un_tercio_de_la_estructura,_en_la_parte_inferior_,_en_la_parte_inferior_se_encuentra_el_nombre_de_la_que_posiblemente_es_su_esposa_Alejandrina_Zamudio_y_una_virgen_que_esta_en_el_medio_de_ellos_dos_Con_una_descripción_en_la_zona_baja_de_la_estructura_siendo_basicamente_una_extensión_de_la_principal,_donde_se_ve_el_mensaje_de_sus_familiares_para_el_padre_y_abuelo_ 1.08 0.74 0.7992 Galeria_interna_occidental_ Masculino NA NA 1997
-CCT_T40 Jhon_F_Roldan 2 Trapecio Lápida NA Arrancado_o_caido Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1997
-CCT_T68 Camilo_Schrader_Fajardo 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.3 0.7 0.21 NA Masculino NA NA 1997
-CCT_T82 Mercedes_Cañon_R 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1997
-CCT_T87 Adelaida_Plazas 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1997
-CCE_T42 Adela_Cano_de_Lopez 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA Abuela 1998
-CCT_T80 Robinson_Barrios_Leal 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1998
-CCT_T36 María_Andrea_Porras 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1999
-CCE_T43 S_Pamela_Orellana 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino 10 Niña 1999
-CCE_T60 Ana_María_Chavez_Posada 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Femenino NA NA 2003
-CCT_T79 Mercedes_Rodríguez_de_Pardo 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Femenino NA NA 2003
-CCT_T54 Cornelio_Méndez_León 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino 72 NA 2004
-CCT_T8 Nohema_Silva_Piñeros 2 Trapecio Lápida_y_monumento Mausoleo_de_cinco_pisos_con_dos_lápidas_en_cada_uno_de_ellos,_con_una_cruz_en_la_cima_ Presencia Sin_ofrenda Volumen_sencillo_con_escalones_en_la_parte_superior_y_una_cruz_en_la_cima_correspondiente_a_las_hermanas_concepcionistas,_comprendida_por_dos_calles_de_bovedas_superpuestas_Cada_una_de_las_lápidas_al_ser_parte_de_la_misama_orden_religiosa_cuenta_con_características_similares_aunque_con_alguna_distinción_Inscripción_bajo_su_nombre_de_hermana,_abreviada_en_HNA 0.5 0.5 0.25 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino NA Monja 2004
-CCT_T59 Alvaro_Fajardo_Pinzón 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino NA NA 2005
-CCT_T60 Paulina_De_Castro_de_Fajardo 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 2005
-CCT_T63 Guillermo_Santacruz_A 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino NA NA 2005
-CCE_T11 Alejandra_Escobar 2 Elipse Lápida Lápida_sencilla Presencia Sin_ofrenda NA 0.2 0.2 0.04 Se_encuentra_en_la_parte_derecha_apenas_se_ingresa_a_la_elipse_Sector_D Femenino NA Madre 2005
-CCE_T38 María_Cristina_Cifuentes_Baquero 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.6 0.6 0.36 NA Femenino 44 NA 2005
-CCT_T12 Flor_M_Manrique 2 Trapecio Lápida Boveda,_con_lápida_interna Presencia Con_ofrenda Es_una_lápida_particular_En_un_primera_instancia,_no_parece_una_lápida_Como_se_puede_observar_en_la_foto,_la_lápida_se_encuentra_resguardad_en_una_especie_de_boveda,_en_la_que_aunque_tiene_un_vidrio,_no_se_lográ_identificar_ni_el_nombre_de_la_fallecida,_ni_las_fechas_de_nacimiento_y_muerte_debido_a_las_Flores_que_cubren_gran_parte_del_espacio_Por_otro_lado_el_contorno_de_la_lápida_que_es_en_piedra_gris_tiene_en_todo_su_interior_una_cadena_de_ramificaciones_y_flores,_que_cubren_la_puerta_de_vidrio_con_contorno_dorado_ 0.69 0.72 0.4968 Galeria_interna_occidental_ Femenino 71 NA 2006
-CCT_T23 María_Ester_Rosa_Obando 2 Trapecio Lápida Lápida_en_mármol_gris_oscuro,_con_sección_para_flores Presencia Sin_ofrenda Lápida_en_mármol_gris_oscuro,_de_tamaño_no_muy_sobresaliente,_ya_que_no_sobresale_del_espacio_del_enterramiento_Están_muy_detallados_y_en_contraste_las_representaciones_religiosas_católicas_en_color_dorado,_con_la_figura_de_la_virgen_maría,_posiblemente_la_de_Guadalupe_por_sus_decoraciones_en_su_aura_que_la_rodea_Además_de_una_inscripción_por_parte_de_su_familia_en_forma_de_despedida,_y_esperanza_en_su_reencuentro_en_el_cielo 0.55 0.6 0.33 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 65 SociosdelafederacióndeempleadosdeBogotá 2006
-CCT_T55 Francisco_Soto_Pombo_ 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino 82 NA 2006
-CCT_T61 Juan_Carlos_Camacho_Barrero 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino NA NA 2006
-CCT_T93 Carmen_Julia_de_Castiblanco 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 2006
-CCT_T31 Luis_Eduardo_Gómez_Huerta 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino 63 NA 2007
-CCE_T49 Ana_Tulia_P_Ghitz 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.45 0.2 0.09 NA Femenino NA NA 2007
-CCT_T21 Fray_José_de_Jesús_Gamboa 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Lápida_de_mármol_gris_oscuro_Como_en_los_otros_casos_se_muestran_tres_partes_La_primera_el_nombre_del_Fray,_el_cual_no_cuenta_con_un_nombre_entre_parentesis_El_simbolo_de_la_congregación,_pero_con_la_presencia_de_otra_orden_o_punto_de_convento_en_la_Provincia_de_San_Luis_Beltran 0.58 0.58 0.3364 Se_encuentra_en_el_sector_occidental_del_trapecio,_entre_el_sector_c4_y_h4 Masculino 93 Sacerdote 2009
-CCT_T64 Gloria_Cristina_Guerrero_Fajardo_y_su_bebe 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 2009
-CCT_T19 Sor_Mercedes_del_niño_Jesús 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Lápida_de_mármol_gris_oscuro_Se_puede_encontrar_el_nombre_de_la_monja,_que_en_este_caso_no_hace_referencia_a_su_nombre_de_pila_como_en_los_otros_casos,_aún_así_se_encuentra_de_todos_modos_el_nombre_del_convento_(Santa_Inés)_y_por_ende_a_su_lado_el_simbólo_de_la_congregación 0.58 0.58 0.3364 Se_encuentra_hacía_el_sector_occidental_del_trapecio,_entre_el_sector_c4_y_la_h4 Femenino NA Monja 2010
-CCT_T20 Fray_José_Dimas_Espitia 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Lápida_de_mármol_gris_oscuro_Como_en_los_otros_casos_se_muestran_tres_partes_La_primera_el_nombre_del_Fray,_el_cual_no_cuenta_con_un_nombre_entre_parentesis_El_simbolo_de_la_congregación,_pero_con_la_presencia_de_otra_orden_o_punto_de_convento_en_la_Provincia_de_San_Luis_Beltran 0.58 0.58 0.3364 Se_encuentra_hacía_el_sector_occidental_del_trapecio,_entre_sector_c4_y_la_h4 Masculino 87 Sacerdote 2010
-CCT_T29 María_A_Espitia_Buitrago 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino 84 NA 2011
-CCE_T76 Aguilina_Sandoval 2 Elipse Lápida NA Presencia Sin_ofrenda NA 18 18 324 NA Femenino NA NA 2011
-CCE_T8 Luis_Alvaro_Rodriguez_Palacios 2 Elipse Lápida Lápida_sencilla Presencia Sin_ofrenda Letra_cursiva,_presencia_de_una_figura_de_un_angel,_cuenta_con_la_representación_de_un_libro_en_la_parrte_inferior_izquierda_que_se_asemeja_a_una_biblía_con_una_inscripción_que_dice_"Luisito_que_tu_llama_de_luz_y_simpartía_resplandezca_por_toda_la_eternidad_Recuerdo_de_su_Familia"_Además_de_una_flor_Fresca_en_su_costado_derecho 0.2 0.2 0.04 Sentido_noroccidental_respecto_a_la_capilla_de_la_elipse Masculino NA NA 2013
-CCE_T86 Teresa_Ch_de_Angel 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 2013
-CCT_T91 Eulalia_Delgado 2 Trapecio Lápida NA Arrancado_o_caido Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 2014
-CCT_T17 Sor_Marta_Isabel_de_San_José 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Lápida_en_mármol_gris_oscuro,_cuenta_con_tres_partes_en_su_superficie_La_primera_es_el_nombre,_apareciendo_su_nombre_de_monja_y_su_nombre_de_pila_el_cual_se_encuentra_entre_parentesis,_María_Dolores__Por_otro_lado_se_encuentra_la_inscripción_del_lugar_al_que_pertenecian_y_se_relaciona_con_su_quehacer,_el_Monasterio_de_Santa_Inés_al_lado_derecho_en_la_parte_superior_y_en_el_lado_izquierdo_el_simbolo_de_su_congregación 0.58 0.58 0.3364 Se_encuentra_hacía_el_sector_occidental_del_trapecio,_entre_el_sector_c4_y_la_h4 Femenino 80 Monja 2015
-CCT_T18 Sor_María_Magdalena_de_la_Trinidad 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Lápida_en_mármol_gris_oscuro,_que_cuenta_con_tres_secciones_La_primera_que_hace_referencia_al_a_su_nombre,_que_se_transforma_al_ser_parte_de_la_iglesia,_y_su_nombre_de_pila,_Beatriz_Con_la_presencia_del_simbolo_del_Convento_de_Santa_Inés,_el_cual_se_puede_ver_junto_a_este_simbólo 0.58 0.58 0.3364 Se_encuentra_hacía_alena_sector_occidental_del_trapecio,_entre_alena_sector_c4_y_la_h4 Femenino 91 Monja 2015
-CCT_T6 Adelina_Castro_Amaya 2 Trapecio Lápida_y_monumento Mausoleo_de_cinco_pisos_con_dos_lápidas_en_cada_uno_de_ellos,_con_una_cruz_en_la_cima_ Presencia Sin_ofrenda Volumen_sencillo_con_escalones_en_la_parte_superior_y_una_cruz_en_la_cima_correspondiente_a_las_hermanas_concepcionistas,_comprendida_por_dos_calles_de_bovedas_superpuestas_Inscripción_bajo_su_nombre_de_hermana,_abreviada_en_HNA 0.5 0.5 0.25 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 81 Monja 2015
-CCE_T85 Alberto_Angel 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 2016
-CCT_T7 Asseneth_María_Cinfuentes_Herrera 2 Trapecio Lápida_y_monumento Mausoleo_de_cinco_pisos_con_dos_lápidas_en_cada_uno_de_ellos,_con_una_cruz_en_la_cima_ Presencia Sin_ofrenda Volumen_sencillo_con_escalones_en_la_parte_superior_y_una_cruz_en_la_cima_correspondiente_a_las_hermanas_concepcionistas,_comprendida_por_dos_calles_de_bovedas_superpuestas_Inscripción_bajo_su_nombre_de_hermana,_abreviada_en_HNA 0.5 0.5 0.25 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 90 Monja 2017
-CCT_T97 Mariquita_G_Ochoa 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.2 0.45 0.09 NA Femenino NA NA 2017
-CCT_T4 Ana_Bertilda_Alvarado_Alvarado 2 Trapecio Lápida_y_monumento Mausoleo_de_cinco_pisos_con_dos_lápidas_en_cada_uno_de_ellos,_con_una_cruz_en_la_cima_ Presencia Sin_ofrenda Volumen_sencillo_con_escalones_en_la_parte_superior_y_una_cruz_en_la_cima_correspondiente_a_las_hermanas_concepcionistas,_comprendida_por_dos_calles_de_bovedas_superpuestas_Inscripción_bajo_su_nombre_de_hermana,_abreviada_en_HNA 0.5 0.5 0.25 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 93 Monja 2018
-CCT_T5 María_Elena_García_Castro 2 Trapecio Lápida_y_monumento Mausoleo_de_cinco_pisos_con_dos_lápidas_en_cada_uno_de_ellos,_con_una_cruz_en_la_cima_ Presencia Sin_ofrenda Volumen_sencillo_con_escalones_en_la_parte_superior_y_una_cruz_en_la_cima_correspondiente_a_las_hermanas_concepcionistas,_comprendida_por_dos_calles_de_bovedas_superpuestas_Cada_una_de_las_lápidas_al_ser_parte_de_la_misama_orden_religiosa_cuenta_con_características_similares_aunque_con_alguna_distinción_Inscripción_bajo_su_nombre_de_hermana,_abreviada_en_HNA 0.5 0.5 0.25 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 95 Monja 2018
-CCT_T85 Sabina_Díaz_Chaves 2 Trapecio Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 2019
-CCT_T24 Blanca_Cecilia_L 2 Trapecio Lápida Lápida_en_mármol_gris_beteado_con_texturas_en_los_distintos_tallados_ejercidos_sobre_está Presencia Con_ofrenda La_lápida_muestra_bastante_información_de_la_persona_Inicialmente_se_puede_reconocer_el_rostro_de_la_persona,_y_que_nos_asocia_directamente_con_la_sin_incluso_haberla_visto_ni_conocido_nunca_antes_Tiene_varias_representaciones_religiosas,_como_en_la_esquina_de_la_parte_superior_izquierda_la_silueta_de_una_virgen_con_un_rosario,_y_junto_a_su_retrato_una_representación_realista_de_Jesús_con_un_paisaje_de_fondo_Además_de_una_bella_descripción__por_parte_de_su_familia_con_el_rol_que_cumplia_en_esta,_y_el_pilar_que_era_para_todos_ellos_ 0.55 0.6 0.33 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 65 FederacióndeEmpleados NA
+Nombre Periodo2 Ubicación Lápida_y_monumento Tipo_de_Estatuas_ Flores Ofrendas Motivos Ancho Alto Superficie Distribución Sexo Edad Rol_(biografía) Fecha_defunción
+Francisco_de_Paula_Santander 1 Elipse Monumento Monumento_con_la_estaua_de_Francisco_de_Paula_Santander Ausencia Sin_ofrenda NA 9.5 10.5 99.75 NA Masculino 48 PolíticoypresidentedeColombia 1840
+José_María_Rivas_Arce 1 Elipse Lápida Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda NA 0.8 1 0.8 NA Maculino 69 NA 1858
+María_Josefa_Mejia_de_Rivas 1 Elipse Lápida Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda NA 0.8 1 0.8 NA Femenino 75 NA 1869
+Lino_de_Pombo_&_Ana_Rebolledo_de_Pombo 1 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.58 0.6 0.348 NA Masculino_y_femenino NA NA 1873
+Ezequiel_Rojas 1 Elipse Monumento Monumento_en_mármol_blanco,_de_forma_ascendente,_cercado Ausencia Sin_ofrenda La_tumba_se_encuentra_dividida_en_cuatro_partes_La_parte_inferior_cuenta_con_la_lápida_de_Ezequiel_rojas,_rodeada_por_una_especie_de_plantas_que_subyacen_del_concreto,_enmarcada_por_unas_columnas_neoclásicas_con_representaciones_masonas,_como_los_libros_y_demás_elementos_acádemicos_asociados_al_rito_y_transmisión_de_los_masones_En_el_segundo_nivel_se_encuentra_la_figura_de_una_mujer_reposando_sentada_con_las_manos_entrelazadas,_un_extenso_vestido_que_cubre_todo_su_cuerpo,_pero_que_se_desliza_en_el_lado_derecho_de_la_mujer_en_la_parte_del_hombro_Y_por_ultimo_en_nivel_superior,_el_busto_de_Ezequiel_Rojas_y_su_rostro_bastante_deteriorado 1.8 3 5.4 Parte_central__de_la_elipse,_en_el_sector_A_al_costado_derecho_respecto_a_la_entrada_de_la_26_ Masculino 70 Político 1873
+Antonio_de_Castro_Caicedo 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.59 0.5 0.295 NA Masculino NA NA 1874
+María_Regla_y_de_Herrera 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.59 0.3363 NA Femenino NA NA 1874
+Mariana_Montoya_de_Restrepo 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.6 0.7 0.42 NA Femenino NA NA 1874
+Sofía_Arboleda_de_Urdaneta 1 Elipse Monumento Monumento_religioso_y_patriotico,_identitario Ausencia Sin_ofrenda Volumen_sencillo,_que_en_la_parte_superior_cuenta_con_una_piedra_grande_que_sostiene_una_cruz_en_la_cima_de_esta_con_una_corona_de_flores_cruzada_desde_la_parte_izquierda,_con_una_placa_en_la_parte_de_adelante_con_forma_romboide_con_una_corona_de_flores_que_rodea_el_retrato_de_una_mujer,_con_la_inscripción_de_Sofía_Mosquera_Arboleda_de_Urdaneta 2.69 1.8 4.842 Pasillo_central_de_la_Elipse_orientación_Oriental_respecto_a_la_entrada_de_la_elipse_en_el_sentido_de_la_calle_26_Sector_A Femenino 19 HijadelpresidenteJulioArboledaPombo 1875
+José_María_Gonzalez_ 1 Elipse Monumento NA Ausencia Sin_ofrenda NA 2.21 4.5 9.945 NA Masculino 77 Coroneldelejercito 1878
+María_Luisa_Carrisoza 1 Elipse Lápida Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda NA 1.2 0.73 0.876 NA Femenino 2 NA 1878
+Dolores_Ortega_de_Rivas 1 Elipse Lápida Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda NA 0.8 1 0.8 NA Femenino 55 NA 1883
+Antonio_Ruiz 1 Elipse Lápida_y_monumento Lápida_de_gran_tamaño,_de_mármol_gris_de_motivo_neoclásico Ausencia Sin_ofrenda NA 2 0.8 1.6 NA Masculino 65 NA 1884
+José_María_Rivas_Mejia 1 Elipse Lápida Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda NA 0.8 1 0.8 NA Masculino 56 NA 1884
+Cristobal_Umaña_Barrero 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.47 0.2679 NA Masculino NA NA 1884
+Eustorgio_Salgar 1 Elipse Lápida_y_monumento Lápida_sencilla_y_lápida_conmemorativa_de_presidencia Ausencia Sin_ofrenda NA 0.5 0.25 0.125 NA Masculino 54 Presidente 1885
+Guillermo_Bonito 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.59 0.3363 NA Masculino NA NA 1886
+Adelia_Cháves_de_Posada 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.5 0.5 0.25 NA Femenino NA NA 1886
+Adelia_Sanchez_de_Posada 1 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.5 0.5 0.25 NA Femenino NA NA 1886
+Carlos_Bonito 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.59 0.3363 NA Masculino NA NA 1886
+Benito_Posada_Gutierrez 1 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.5 0.5 0.25 NA Masculino NA NA 1887
+José_María_Samper 1 Elipse Monumento NA ausencia Sin_ofrenda NA 0.88 2.2 1.936 NA Masculino 60 Políticoyabogado 1888
+Camilo_A_Carrizosa 1 Elipse Lápida Lápida_con_relieve_y_motivos_religiosos Ausencia Sin_ofrenda NA 0.65 0.7 0.455 NA Masculino NA NA 1889
+Enrique_Umaña_Ricaurte 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.6 0.58 0.348 NA Masculino NA NA 1890
+Carmen_C_de_Castro 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.59 0.5 0.295 NA Femenino NA NA 1891
+Augustinus_Ramos_Et_Mathildis_Ruiz 1 Elipse Lápida_y_monumento Lápida_de_gran_tamaño,_de_mármol_gris_de_motivo_neoclásico Ausencia Sin_ofrenda NA 2 0.8 1.6 NA Masculino_y_femenino NA NA 1891
+Elvira_Silva_Gómez_ 1 Elipse Monumento Monumento_neoclásico,_con_una_columna_intermedia_ Ausencia Sin_ofrenda Columna_de_tipo_dorica_en_la_parte_media_del_monumento,_con_una_cruz_en_la_parte_superior_con_un_manto_cubriendo_la_parte_derecha_y_una_corona_de_flores_cruzada_desde_la_parte_izquierda,_sumando_en_la_parte_trasera_dos_coronas_de_flores_en_medio_de_la_tumba 2.69 1.79 4.8151 Pasillo_central_de_la_Elipse_con_sentido_occidental_respeto_a_la_entrada_de_la_calle_26_Sector_O Femenino 20 Jovendegranbelleza 1892
+Antonio_R_Cuervo 1 Elipse Lápida_y_monumento Lápida_de_gran_tamaño,_de_mármol_gris_con_busto_del_general Ausencia Sin_ofrenda NA 2.2 1.39 3.058 NA Masculino 59 General 1893
+Paula_A_Maldonado 1 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.6 0.58 0.348 NA Femenino NA NA 1895
+Ana_Bonito_U 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.59 0.3363 NA Femenino NA NA 1895
+Jacinta_Tobar_de_Umaña 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.47 0.2679 NA Femenino NA NA 1895
+Mercedes_Umaña_de_Triana 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.63 0.48 0.3024 NA Femenino 53 NA 1895
+José_Asunción_Silva_ 1 Elipse Monumento Especie_de_Mausoleo_neoclásico_con_una_columba_intermedia Ausencia Sin_ofrenda Columna_de_tipo_dorica_en_la_parte_media_del_monumento,_con_una_cruz_en_la_parte_superior_con_un_manto_cubriendo_la_parte_derecha_y_una_corona_de_flores_cruzada_desde_la_parte_izquierda,_sumando_en_la_parte_trasera_dos_coronas_de_flores_en_medio_de_la_tumba 2.69 1.79 4.8151 Pasillo_central_de_la_Elipse_con_sentido_occidental_respeto_a_la_entrada_de_la_calle_26_Sector_O Masculino 31 Escritor 1896
+María_Francisca_Ssamper 1 Elipse Lápida_y_monumento NA Ausencia Sin_ofrenda NA 1.5 0.5 0.75 NA Femenino 21 NA 1899
+José_Ma_Cespedes_López 1 Elipse Lápida Lápida_sencilla_en_mármol_blanco Ausencia Sin_ofrenda NA 0.56 0.49 0.2744 NA Masculino NA NA 1900
+Teodosia_Bermúdez_González 1 Elipse Lápida Lápida_sencilla_de_mármol_blanco_y_grisaceo Ausencia Sin_ofrenda NA 0.6 0.5 0.3 NA Femenino NA NA 1900
+Guillermo_de_Castro_Uricochea 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.59 0.5 0.295 NA Masculino 70 NA 1900
+Medardo_Rodriguez 1 Elipse Lápida Lápida_sencilla Presencia Sin_ofrenda NA 0.72 0.62 0.4464 NA Masculino NA NA 1901
+Luis_Felipe_Escobar 1 Elipse Lápida_y_monumento Lápida_piedra_cáfe_con_decoraciones_neoclásicas_y_motivos_de_rocas Ausencia Sin_ofrenda NA 1.75 0.56 0.98 NA Masculino 60 NA 1901
+Gertrudis_Hurtado_C 1 Elipse Lápida  Lápida_sencilla Ausencia Sin_ofrenda NA 0.45 0.53 0.2385 NA Femenino NA NA 1902
+Epifanio_Garay 1 Elipse Lápida_y_monumento Lápida_sencilla Ausencia Sin_ofrenda NA 1.11 0.53 0.5883 NA Masculino NA NA 1903
+Familia_Fonega_Tamayo 1 Elipse Lápida_y_monumento Lápida_sencilla Ausencia Sin_ofrenda NA 1.81 2.05 3.7105 NA Masculino_y_femenino NA NA 1903
+Salomon_Arana_Fonseca 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1905.00
+Santiago_Samper 1 Elipse Lápida_y_monumento NA Ausencia Sin_ofrenda NA 1.5 0.5 0.75 NA Masculino 52 NA 1906
+Dolores_Arroyo_de_Pombo 1 Elipse Lápida  Lápida_sencilla Ausencia Sin_ofrenda NA 0.45 0.4 0.18 NA Femenino 54 NA 1907
+Jacinto_M_Ruiz 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Masculino NA General 1907
+Miguel_Antonio_Caro 1 Elipse Monumento Arquitectura_republicana,_neoclásica Ausencia Sin_ofrenda Es_una_tumba_grande,_amplia,_que_esta_delimitada_por_una_franja_de_cadenas_que_lo_custodian_Se_puede_observar_una_uniformidad_de_piedra_en_la_casi_totalidad_de_la_tumba_exceptuando_el_busto,_que_parece_de_algún_metal_Se_pueden_observar_dos_cruces,_una_en_la_parte_superior_del_pilar_en_la_tumba,_y_en_la_pare_frontal_inferior_donde_se_encuentra_el_fallecido_Encima_de_esta_en_la_parte_media_baja,_se_puede_observar_el_escudo_de_Colombia_con_el_Condor_en_la_parte_superior_de_este_Además_de_porsupuesto_el_busto_de_Miguel_Antonio_Caro_que_sobresale_en_la_tumba 2.69 3.5 9.415 Se_encuentra_en_el_sector_A,_en_pasillo_central_en_la_parte_derecha_apenas_se_ingresa_a_la_elipse_ Masculino 66 Político 1909
+Mercedes_de_la_Roche 1 Elipse Lápida Lápida_sencilla_de_mármol_blanco_y_grisaceo Ausencia Sin_ofrenda NA 0.59 0.47 0.2773 NA Femenino NA NA 1910
+Josefa_Torres_de_Medina 1 Elipse Lápida_y_monumento Lápida_sencilla Presencia Con_ofrenda NA 0.54 0.3 0.162 NA Femenino NA NA 1911
+Felix_Medina_Torres 1 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.54 0.3 0.162 NA Masculino NA NA 1911
+Soledad_Umaña_de_Bonito 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.56 0.6 0.336 NA Femenino NA NA 1911
+Elvira_Cortes 1 Elipse Lápida_y_monumento Lápida_sencilla_parte_de_un_monumento Ausencia Sin_ofrenda NA 0.5 0.6 0.3 NA Femenino 1 Recien_nacida 1912
+Enrique_Cortes 1 Elipse Lápida_y_monumento Lápida_sencilla_parte_de_un_monumento Ausencia Sin_ofrenda NA 1.18 1.13 1.3334 NA Masculino 74 NA 1912
+Lucía_de_Balcazar 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.63 0.7 0.441 NA Femenino NA NA 1912
+Rafel_Pombo 1 Elipse Monumento Bloque_de_mármol_gris_con_forma_de_altar Ausencia Sin_ofrenda Monumento_con_forma_de_altar_con_una_inscripción_en_la_parte_superior_de_lo_que_parece_un_libro,_además_de_una_cruz_cristiana_que_se_encuentra_en_el_centro_de_la_estructura,_en_la_parte_superior_del_nombre_del_escritor_ 1.82 0.7 1.274 Ubicado_en_el_Sector_I_de_la_Elipse_En_el_camellón_interno_sur_A Masculino 79 Escritor 1912
+Manuel_José_Concha 1 Elipse Lápida_y_monumento Lápida_sencilla Ausencia Sin_ofrenda NA 0.57 0.47 0.2679 NA Masculino NA NA 1913
+Leopoldo_Pombo_Arroyo 1 Elipse Lápida  Lápida_sencilla Ausencia Sin_ofrenda NA 0.45 0.4 0.18 NA Masculino 68 NA 1913
+Juan_B_Pombo_Arroyo 1 Elipse Lápida  Lápida_sencilla Ausencia Sin_ofrenda NA 0.45 0.4 0.18 NA Masculino 66 NA 1913
+Soledad_Acosta_Samper 1 Elipse Lápida Lápida_sencilla_de_forma_rectangular Ausencia Sin_ofrenda Lápida_sencilla,_de_no_muy_altas_características_visibles_de_la_escritora,_se_ve_bastante_descuidada,_sin_algún_tipo_de_cuidado_alguno,_e_incluso_un_poco_de_olvido NA NA NA Ubicada_en_la_parte_central_de_la_elipse_hacía_el_costado_oriental_del_pasillo_central_Sector_F Femenino 80 Escritora 1913
+Sinforosa_Florez_de_Salgar 1 Elipse Lápida_y_monumento Lápida_sencilla Ausencia Sin_ofrenda NA 0.53 0.3 0.159 NA Femenino NA NA 1914
+Concepción_Vargas_de_Bermudez 1 Elipse Lápida Lápida_sencilla Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 1914
+Rafael_Uribe_Uribe 1 Elipse Monumento Monumento_de_distintos_materialies Ausencia Sin_ofrenda Monumento_de_forma_de_templo_con_sus_respectivas_columnas_dóricas,_multiples_decoraciones_del_estilo_neoclásico,_el_busto_del_fallecido_en_bronce_así_como_el_escudo_de_Colombia_en_la_parte_central_y_frontal_del_monumento,_así_como_la_fecha_de_su_fallecimiento_escrito_en_latín_y_en_números_romanos_Además_de_una_gran_reja_que_ocupa_gran_parte_del_espacio 3.69 4.5 16.605 Ubicado_en_el_sector_P_de_la_Elipse,_por_el_camellón_interno_b,_en_sentido_oriental_respecto_a_la_entrada_de_la_26 Masculino 55 Político 1914
+Ines_Rey_de_Rodriguez 1 Elipse Lápida Lápida_sencilla Flores Sin_ofrenda NA 0.72 0.62 0.4464 NA Femenino NA NA 1915
+Felipe_Zapata_Cuenca 1 Elipse Lápida_y_monumento Lápida_de_gran_tamaño_de_mármol_gris_parte_de_un_monumento_en_piedra Ausencia Sin_ofrenda NA 0.5 0.76 0.38 NA Masculino 30 NA 1915
+Pedro_Julio_Bernal 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.6 0.6 0.36 NA Masculino NA NA 1965
+Yezid_Tellez 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.65 0.7 0.455 NA Masculino NA NA 1965
+Salustia_G_v_de_Martinez 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1966
+Julio_Carrillo_Guzman 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1966
+Alberto_Martinez_Londoño 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino 8 NA 1966
+Jose_Vicente_Lozada_D 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1966
+Carlos_Ceballos_C 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Masculino NA NA 1967
+María_O_V_De_Quintero 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
+Catalina_M_Quiroga 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino 60 NA 1967
+Elias_Hernández_ 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
+Ricardo_Sánchez_R 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
+María_de_Jesús_L_v_de_Olaya 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
+Ludovina_M_v_de_Murcia 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
+Hernando_Caviedes_Neira 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
+Alba_Mahecha_de_Torres 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino 36 NA 1967
+Noema_Gomez_Acevedo 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
+Albertina_P_de_López 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
+Francisco_Muñoz_A 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
+Jose_Ignacio_Burbano_Ch 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
+María_Ines_V_ 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.19 0.2 0.038 NA Femenino 42 NA 1967
+Gladys_Emma_Angel_Ch 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
+Alicia_Millan_de_Carrillo_ 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino 50 NA 1967
+Mam 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA NA NA NA 1967
+Ricardo_Mejia_Vásquez 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1967
+Lola_Piedrahita 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1967
+Salomón_Arana_Fonseca 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_beteado Ausencia Con_ofrenda Lápida_sencilla,_con_poca_decoración_Se_puede_observar_en_un_cuarto_de_la_lápida_la_ubicación_de_una_cruz,_la_única_representación_religiosa_y_posiblemente_la_más_importante_al_representar_la_no_entrada_de_la_muerte_a_la_casa_de_los_egipcios_durante_la_última_plaga_Cuenta_además_con_un_broche_que_puede_ser_un_tipo_de_ofrenda_de_algún_conocido 0.3 0.28 0.084 Ubicada_en_la_parte_oriental_del_trapecio_junto_a_la_parte_posterior_de_la_elipse_ Masculino NA NA 1967
+Calos_Felipe_Echeverri_Cortes 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.7 0.6 0.42 NA Masculino NA NA 1968
+Rafel_Perez_G 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1968
+Gustavo_León_Moncaleano 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1969
+Rafael_A_Hernandez_G 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1969
+Josefa_Peña_Mendieta 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1969
+Rafael_Fajardo_Pinzón 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino NA NA 1969
+Sister_Ines_Marie_Echeverri_ 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.7 0.6 0.42 NA Femenino NA Monja 1970
+Arturito_Avendaño 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1970
+Ines_Posada_de_Venegas 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.68 0.68 0.4624 NA Femenino NA NA 1971
+Rosa_M_Farfan_Camelo 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1971
+Ana_Infante 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.45 0.2 0.09 NA Femenino NA NA 1972
+Eduardo__Chavez_Posada 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Masculino NA NA 1972
+Luis_Echeverri_Cortes 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.68 0.6 0.408 NA Masculino NA NA 1972
+Carlos_Echeverri_Cortes 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.7 0.6 0.42 NA Masculino NA NA 1974
+Gustavo_Rojas_Pinilla 1 Elipse Monumento Lápida_de_gran_tamaño,_de_mármol_gris Ausencia Sin_ofrenda Lápida_de_forma_rectangular,_ubicada_de_forma_vertical_en_el_suelo,_con_un_escalón_Como_tal_no_presenta_ningún_símbolo_distintivo,_sin_embargo,_si_muestra_una_frase_que_dice_"caudillo_del_pueblo" 1.8 1 1.8 NA Masculino 75 Político 1975
+Martha_ES_de_Rodriguez 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1975
+Indalecio_Ramos_P 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino 73 NA 1975
+Emma_Fajardo_pinzón 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 1975
+Demetrio_Camargo 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1975
+Leonor_P_V_de_Ceballos 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Femenino NA NA 1976
+María_A_de_Espinoza 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1976
+María_Castro_v_de_Sarmiento 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino 77 NA 1978
+Gustavo_Tellez_Max 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.65 0.7 0.455 NA Masculino NA NA 1979
+Hernando_Chavez_Posada 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Masculino NA NA 1980
+Helena_Pombo_de_Soto 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino 61 NA 1980
+Alejandro_Escandon_Santos 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.65 0.65 0.4225 NA Masculino 77 NA 1980
+Alejandrina_Zamudio_de_Moreno 2 Trapecio Lápida Lápida_interna_con_contorno_en_piedra_verde_oscura Presencia Sin_ofrenda Lápida_en_piedra,_posiblemente_en_mármol_blanco_con_ciertas_betas_color_gris,_las_cuales_se_pueden_observar_a_lo_largo_de_la_lápida_En_la_parte_Inferior_se_encuentra_el_nombre_de_Alejandrina,_ocupando_casi_que_un_sexto_de_la_estructura,_en_caso_de_hacer_una_cuadricula_de_2_x3_Su_nombre_se_encuentra_bajo_la_virgen_que_es_internmedia_entre_ella_y_su_esposo_(¿?),_y_la_colocación_del_lugar_de_deposito_de_flores 1.08 0.74 0.7992 Galeria_interna_occidental_ Femenino NA NA 1981
+Alicia_Cardenas_ 2 Elipse Lápida_y_monumento Lápida_en_mármol_gris_parte_de_un_monumento_de_la_familia_Cardenas Ausencia Sin_ofrenda NA 0.6 0.59 0.354 NA Femenino 73 NA 1981
+Ramon_F_Jimeno_Peñaredonda 2 Elipse Lápida NA Ausencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1982
+Paulo_E_Rodriguez 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Una_lápida_sencilla_con_decaroaciones_religiosas_como_una_cruz_inclinada_hacía_el_lado_derecho_Con_la_inscripción_de_su_nombre_en_letra_cursiva_sobresaliendo_de_una_especie_de_pared_rugosa_de_la_que_sale_Además_de_una_inscripción_en_la_parte_superior_de_la_lápida_que_dice_"socio_fundador" 0.6 0.7 0.42 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Masculino 80 SociosdelafederacióndeempleadosdeBogotá 1982
+Segundo_Rojas_ 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.45 0.2 0.09 NA Masculino NA NA 1984
+Jaime_Pardo_Leal 2 Elipse Lápida_y_monumento NA Ausencia Sin_ofrenda NA NA NA NA NA Masculino NA NA 1987
+María_del_Carmen_Cuadros 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1988
+Mercedes_Gutierrez_V 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1988
+Mario_Martinez_ 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1988
+Enrique_Cifuentes_Bernal 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Femenino 88 NA 1989
+María_Infante 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.45 0.2 0.09 NA Femenino NA NA 1989
+Luis_Carlos_Galán 2 Elipse Lápida Monumento_conmemorativo,_bloque_grande_de_mármol_blanco Presencia Con_ofrenda Bloque_de_mármol_blanco_que_ocupa_alrededor_de_6_mts_de_largo_por_ancho,_con_unas_escalones_de_escaso_tamaño_que_dan_la_noción_de_una_tarima_en_el_centro_de_un_recinto_cuadrado NA NA NA Parte_central_de_la_elipse,_entre_la_calle_26_y_la_calle_24,_en_todo_el_medio_del_camellon_central_Sector_T Masculino 46 Político 1989
+Graciela_Martinez_v_De_Eguia 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.65 0.7 0.455 NA Femenino NA NA 1989
+Alcides_Doncel_G 2 Elipse Lápida Làpida_sencilla_en_piedra_pulida Presencia Sin_ofrenda Es_una_lapida_de_perqueño_tamaño,_con_ciertos_factores_determinantes_como_el_nùmero_85_de_su_ubicaciòn_en_la_parte_inferior_Cuenta_con_la_inscripciòn_de_la_làpida_reteñida_como_con_tinta_negra,_posiblemente_de_un_marcador_Anexando_ademàs_el_aprecio_de_sus_nietos,_dando_la_informaciòn_de_pues_la_posiciòn_de_Alcides_como_el_abuelo_de_està_familia 0.2 0.2 0.04 Se_encuentra_en_la_parte_derecha_apenas_se_ingresa_a_la_elipse_Sector_D Masculino NA NA 1990
+Carlos_Pizarro_Leongémez 2 Elipse Monumento Monumento_de_conmemoración_moderno Presencia Con_ofrenda Bloque_de_márnol_gris_con_distos_escalones_de_forma_ascendente,_cuenta_con_la_representación_de_una_espada_en_el_centro_de_la_lápida,__fue_restaurada_y_conmemorada_como_monumento_de_la_paz_y_la_vida_ 2.56 0.76 1.9456 Parte_occidental_de_la_elipse_posterior_a_la_ubicación_de_Francisco_de_Paula_Santander_Sector_Q,_anterior_al_camellon_interno_oriental_A Masculino 39 Político 1990
+Ana_Tulia_Lopez 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1990
+Gustavo_Fajardo_Pinzón 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino NA NA 1990
+José_Burgos_Correo 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1990
+Jorge_E_Marulanda 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1991
+Willam_Mauricio_Serrato 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1991
+María_del_Carmen_Aguilera 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1991
+Ana_Joaquina_C_v_de_Chacón 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1991
+Cesar_E_Serrano 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1991
+Margarita_Fajardo_Pinzón 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 1991
+Patrocinio_Castor 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
+José_Yesid_Nagles 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
+Ernesto_Quiroga_Ch 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.45 0.09 NA Masculino NA NA 1992
+Manuel_Quiroja_Ch 2 Trapecio Lápida NA Arrancado_o_caido Sin_ofrenda NA 0.2 0.45 0.09 NA Masculino NA NA 1992
+Danelfio_Martinez 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
+María_Teresa_rodríguez 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1992
+María_de_Jesús_Paredes 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino 59 NA 1992
+Carlos_A_Acevedo 2 Trapecio Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
+José_U_Urrego_Romero 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
+Dolores_Sabogal 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1992
+Fernanda_Burgos 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1992
+Luis_Alberto_Vega 2 Trapecio Lápida NA Arrancado_o_caido Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
+Orlando_F_Moreno 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
+Vidal_David_Barrera 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1992
+Gabrielina_Rodríguez_de_Acosta 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.45 0.09 NA Femenino 66 NA 1992
+Jhon_Jairo_Hernández 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1993
+Mar_Lorenza_Escobar 2 Elipse Lápida Lápida_sencilla Presencia Sin_ofrenda NA 0.2 0.2 0.04 Se_encuentra_en_la_parte_derecha_apenas_se_ingresa_a_la_elipse_Sector_D Femenino NA Madre 1993
+Andrés_Salazar_ 2 Elipse Lápida NA Arrancado_o_caido Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1993
+Gabriela_Bonilla 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.45 0.2 0.09 NA Femenino NA NA 1993
+Carlos_J_Romero 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1993
+Elizabeth_Carrillo_G 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1993
+Nelsón_F_Vanegas 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1994
+Ines_Infantino_de_Camacho 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 1994
+Yolanda_González 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1994
+Ramón_González 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1994
+Oscar_F_Arevalo 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino 22 NA 1994
+Ernesto_Mahecha_A 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1994
+Pedro_N_Becerra 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1995
+Hector_Manicel_Vega 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1995
+Carmen_F_Alfonso 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1995
+Laura_Rosero_de_Cifuentes 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.3 0.6 0.18 NA Femenino NA NA 1995
+Barbara_Pardo 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1995
+José_M_Castro 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1995
+Carlos_Eugenio_Rodríguez 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1996
+Olga_L_Cortes 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1996
+Abigail_Morales_de_V 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1996
+Cecilia_Atuesta_Fajardo 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.3 0.7 0.21 NA Femenino NA NA 1996
+Daniel_Moreno_Zamudio 2 Trapecio Lápida NA Ausencia Sin_ofrenda Lápida_en_piedra,_posiblemente_en_mármol_blanco_con_ciertas_betas_color_gris,_las_cuales_se_pueden_observar_a_lo_largo_de_la_lápida_En_la_parte_inferioe_se_encuentra_el_nombre_de_Daniel,_ocupando_casi_que_un_tercio_de_la_estructura,_en_la_parte_inferior_,_en_la_parte_inferior_se_encuentra_el_nombre_de_la_que_posiblemente_es_su_esposa_Alejandrina_Zamudio_y_una_virgen_que_esta_en_el_medio_de_ellos_dos_Con_una_descripción_en_la_zona_baja_de_la_estructura_siendo_basicamente_una_extensión_de_la_principal,_donde_se_ve_el_mensaje_de_sus_familiares_para_el_padre_y_abuelo_ 1.08 0.74 0.7992 Galeria_interna_occidental_ Masculino NA NA 1997
+Jhon_F_Roldan 2 Trapecio Lápida NA Arrancado_o_caido Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1997
+Camilo_Schrader_Fajardo 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.3 0.7 0.21 NA Masculino NA NA 1997
+Mercedes_Cañon_R 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1997
+Adelaida_Plazas 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1997
+Adela_Cano_de_Lopez 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA Abuela 1998
+Robinson_Barrios_Leal 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 1998
+María_Andrea_Porras 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 1999
+S_Pamela_Orellana 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino 10 Niña 1999
+Ana_María_Chavez_Posada 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Femenino NA NA 2003
+Mercedes_Rodríguez_de_Pardo 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.6 0.6 0.36 NA Femenino NA NA 2003
+Cornelio_Méndez_León 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino 72 NA 2004
+Nohema_Silva_Piñeros 2 Trapecio Lápida_y_monumento Mausoleo_de_cinco_pisos_con_dos_lápidas_en_cada_uno_de_ellos,_con_una_cruz_en_la_cima_ Presencia Sin_ofrenda Volumen_sencillo_con_escalones_en_la_parte_superior_y_una_cruz_en_la_cima_correspondiente_a_las_hermanas_concepcionistas,_comprendida_por_dos_calles_de_bovedas_superpuestas_Cada_una_de_las_lápidas_al_ser_parte_de_la_misama_orden_religiosa_cuenta_con_características_similares_aunque_con_alguna_distinción_Inscripción_bajo_su_nombre_de_hermana,_abreviada_en_HNA 0.5 0.5 0.25 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino NA Monja 2004
+Alvaro_Fajardo_Pinzón 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino NA NA 2005
+Paulina_De_Castro_de_Fajardo 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 2005
+Guillermo_Santacruz_A 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino NA NA 2005
+Alejandra_Escobar 2 Elipse Lápida Lápida_sencilla Presencia Sin_ofrenda NA 0.2 0.2 0.04 Se_encuentra_en_la_parte_derecha_apenas_se_ingresa_a_la_elipse_Sector_D Femenino NA Madre 2005
+María_Cristina_Cifuentes_Baquero 2 Elipse Lápida NA Presencia Sin_ofrenda NA 0.6 0.6 0.36 NA Femenino 44 NA 2005
+Flor_M_Manrique 2 Trapecio Lápida Boveda,_con_lápida_interna Presencia Con_ofrenda Es_una_lápida_particular_En_un_primera_instancia,_no_parece_una_lápida_Como_se_puede_observar_en_la_foto,_la_lápida_se_encuentra_resguardad_en_una_especie_de_boveda,_en_la_que_aunque_tiene_un_vidrio,_no_se_lográ_identificar_ni_el_nombre_de_la_fallecida,_ni_las_fechas_de_nacimiento_y_muerte_debido_a_las_Flores_que_cubren_gran_parte_del_espacio_Por_otro_lado_el_contorno_de_la_lápida_que_es_en_piedra_gris_tiene_en_todo_su_interior_una_cadena_de_ramificaciones_y_flores,_que_cubren_la_puerta_de_vidrio_con_contorno_dorado_ 0.69 0.72 0.4968 Galeria_interna_occidental_ Femenino 71 NA 2006
+María_Ester_Rosa_Obando 2 Trapecio Lápida Lápida_en_mármol_gris_oscuro,_con_sección_para_flores Presencia Sin_ofrenda Lápida_en_mármol_gris_oscuro,_de_tamaño_no_muy_sobresaliente,_ya_que_no_sobresale_del_espacio_del_enterramiento_Están_muy_detallados_y_en_contraste_las_representaciones_religiosas_católicas_en_color_dorado,_con_la_figura_de_la_virgen_maría,_posiblemente_la_de_Guadalupe_por_sus_decoraciones_en_su_aura_que_la_rodea_Además_de_una_inscripción_por_parte_de_su_familia_en_forma_de_despedida,_y_esperanza_en_su_reencuentro_en_el_cielo 0.55 0.6 0.33 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 65 SociosdelafederacióndeempleadosdeBogotá 2006
+Francisco_Soto_Pombo_ 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino 82 NA 2006
+Juan_Carlos_Camacho_Barrero 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Masculino NA NA 2006
+Carmen_Julia_de_Castiblanco 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 2006
+Luis_Eduardo_Gómez_Huerta 2 Trapecio Lápida NA Presencia Sin_ofrenda NA 0.2 0.2 0.04 NA Masculino 63 NA 2007
+Ana_Tulia_P_Ghitz 2 Elipse Lápida NA Ausencia Sin_ofrenda NA 0.45 0.2 0.09 NA Femenino NA NA 2007
+Fray_José_de_Jesús_Gamboa 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Lápida_de_mármol_gris_oscuro_Como_en_los_otros_casos_se_muestran_tres_partes_La_primera_el_nombre_del_Fray,_el_cual_no_cuenta_con_un_nombre_entre_parentesis_El_simbolo_de_la_congregación,_pero_con_la_presencia_de_otra_orden_o_punto_de_convento_en_la_Provincia_de_San_Luis_Beltran 0.58 0.58 0.3364 Se_encuentra_en_el_sector_occidental_del_trapecio,_entre_el_sector_c4_y_h4 Masculino 93 Sacerdote 2009
+Gloria_Cristina_Guerrero_Fajardo_y_su_bebe 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.7 0.7 0.49 NA Femenino NA NA 2009
+Sor_Mercedes_del_niño_Jesús 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Lápida_de_mármol_gris_oscuro_Se_puede_encontrar_el_nombre_de_la_monja,_que_en_este_caso_no_hace_referencia_a_su_nombre_de_pila_como_en_los_otros_casos,_aún_así_se_encuentra_de_todos_modos_el_nombre_del_convento_(Santa_Inés)_y_por_ende_a_su_lado_el_simbólo_de_la_congregación 0.58 0.58 0.3364 Se_encuentra_hacía_el_sector_occidental_del_trapecio,_entre_el_sector_c4_y_la_h4 Femenino NA Monja 2010
+Fray_José_Dimas_Espitia 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Lápida_de_mármol_gris_oscuro_Como_en_los_otros_casos_se_muestran_tres_partes_La_primera_el_nombre_del_Fray,_el_cual_no_cuenta_con_un_nombre_entre_parentesis_El_simbolo_de_la_congregación,_pero_con_la_presencia_de_otra_orden_o_punto_de_convento_en_la_Provincia_de_San_Luis_Beltran 0.58 0.58 0.3364 Se_encuentra_hacía_el_sector_occidental_del_trapecio,_entre_sector_c4_y_la_h4 Masculino 87 Sacerdote 2010
+María_A_Espitia_Buitrago 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino 84 NA 2011
+Aguilina_Sandoval 2 Elipse Lápida NA Presencia Sin_ofrenda NA 18 18 324 NA Femenino NA NA 2011
+Luis_Alvaro_Rodriguez_Palacios 2 Elipse Lápida Lápida_sencilla Presencia Sin_ofrenda Letra_cursiva,_presencia_de_una_figura_de_un_angel,_cuenta_con_la_representación_de_un_libro_en_la_parrte_inferior_izquierda_que_se_asemeja_a_una_biblía_con_una_inscripción_que_dice_"Luisito_que_tu_llama_de_luz_y_simpartía_resplandezca_por_toda_la_eternidad_Recuerdo_de_su_Familia"_Además_de_una_flor_Fresca_en_su_costado_derecho 0.2 0.2 0.04 Sentido_noroccidental_respecto_a_la_capilla_de_la_elipse Masculino NA NA 2013
+Teresa_Ch_de_Angel 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 2013
+Eulalia_Delgado 2 Trapecio Lápida NA Arrancado_o_caido Sin_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 2014
+Sor_Marta_Isabel_de_San_José 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Lápida_en_mármol_gris_oscuro,_cuenta_con_tres_partes_en_su_superficie_La_primera_es_el_nombre,_apareciendo_su_nombre_de_monja_y_su_nombre_de_pila_el_cual_se_encuentra_entre_parentesis,_María_Dolores__Por_otro_lado_se_encuentra_la_inscripción_del_lugar_al_que_pertenecian_y_se_relaciona_con_su_quehacer,_el_Monasterio_de_Santa_Inés_al_lado_derecho_en_la_parte_superior_y_en_el_lado_izquierdo_el_simbolo_de_su_congregación 0.58 0.58 0.3364 Se_encuentra_hacía_el_sector_occidental_del_trapecio,_entre_el_sector_c4_y_la_h4 Femenino 80 Monja 2015
+Sor_María_Magdalena_de_la_Trinidad 2 Trapecio Lápida Lápida_sencilla_en_mármol_gris_ Ausencia Sin_ofrenda Lápida_en_mármol_gris_oscuro,_que_cuenta_con_tres_secciones_La_primera_que_hace_referencia_al_a_su_nombre,_que_se_transforma_al_ser_parte_de_la_iglesia,_y_su_nombre_de_pila,_Beatriz_Con_la_presencia_del_simbolo_del_Convento_de_Santa_Inés,_el_cual_se_puede_ver_junto_a_este_simbólo 0.58 0.58 0.3364 Se_encuentra_hacía_alena_sector_occidental_del_trapecio,_entre_alena_sector_c4_y_la_h4 Femenino 91 Monja 2015
+Adelina_Castro_Amaya 2 Trapecio Lápida_y_monumento Mausoleo_de_cinco_pisos_con_dos_lápidas_en_cada_uno_de_ellos,_con_una_cruz_en_la_cima_ Presencia Sin_ofrenda Volumen_sencillo_con_escalones_en_la_parte_superior_y_una_cruz_en_la_cima_correspondiente_a_las_hermanas_concepcionistas,_comprendida_por_dos_calles_de_bovedas_superpuestas_Inscripción_bajo_su_nombre_de_hermana,_abreviada_en_HNA 0.5 0.5 0.25 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 81 Monja 2015
+Alberto_Angel 2 Elipse Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Masculino NA NA 2016
+Asseneth_María_Cinfuentes_Herrera 2 Trapecio Lápida_y_monumento Mausoleo_de_cinco_pisos_con_dos_lápidas_en_cada_uno_de_ellos,_con_una_cruz_en_la_cima_ Presencia Sin_ofrenda Volumen_sencillo_con_escalones_en_la_parte_superior_y_una_cruz_en_la_cima_correspondiente_a_las_hermanas_concepcionistas,_comprendida_por_dos_calles_de_bovedas_superpuestas_Inscripción_bajo_su_nombre_de_hermana,_abreviada_en_HNA 0.5 0.5 0.25 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 90 Monja 2017
+Mariquita_G_Ochoa 2 Trapecio Lápida NA Ausencia Sin_ofrenda NA 0.2 0.45 0.09 NA Femenino NA NA 2017
+Ana_Bertilda_Alvarado_Alvarado 2 Trapecio Lápida_y_monumento Mausoleo_de_cinco_pisos_con_dos_lápidas_en_cada_uno_de_ellos,_con_una_cruz_en_la_cima_ Presencia Sin_ofrenda Volumen_sencillo_con_escalones_en_la_parte_superior_y_una_cruz_en_la_cima_correspondiente_a_las_hermanas_concepcionistas,_comprendida_por_dos_calles_de_bovedas_superpuestas_Inscripción_bajo_su_nombre_de_hermana,_abreviada_en_HNA 0.5 0.5 0.25 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 93 Monja 2018
+María_Elena_García_Castro 2 Trapecio Lápida_y_monumento Mausoleo_de_cinco_pisos_con_dos_lápidas_en_cada_uno_de_ellos,_con_una_cruz_en_la_cima_ Presencia Sin_ofrenda Volumen_sencillo_con_escalones_en_la_parte_superior_y_una_cruz_en_la_cima_correspondiente_a_las_hermanas_concepcionistas,_comprendida_por_dos_calles_de_bovedas_superpuestas_Cada_una_de_las_lápidas_al_ser_parte_de_la_misama_orden_religiosa_cuenta_con_características_similares_aunque_con_alguna_distinción_Inscripción_bajo_su_nombre_de_hermana,_abreviada_en_HNA 0.5 0.5 0.25 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 95 Monja 2018
+Sabina_Díaz_Chaves 2 Trapecio Lápida NA Presencia Con_ofrenda NA 0.2 0.2 0.04 NA Femenino NA NA 2019
+Blanca_Cecilia_L 2 Trapecio Lápida Lápida_en_mármol_gris_beteado_con_texturas_en_los_distintos_tallados_ejercidos_sobre_está Presencia Con_ofrenda La_lápida_muestra_bastante_información_de_la_persona_Inicialmente_se_puede_reconocer_el_rostro_de_la_persona,_y_que_nos_asocia_directamente_con_la_sin_incluso_haberla_visto_ni_conocido_nunca_antes_Tiene_varias_representaciones_religiosas,_como_en_la_esquina_de_la_parte_superior_izquierda_la_silueta_de_una_virgen_con_un_rosario,_y_junto_a_su_retrato_una_representación_realista_de_Jesús_con_un_paisaje_de_fondo_Además_de_una_bella_descripción__por_parte_de_su_familia_con_el_rol_que_cumplia_en_esta,_y_el_pilar_que_era_para_todos_ellos_ 0.55 0.6 0.33 Ubicada_en_la_parte_posterior_a_la_elipse_por_la_entrada_de_la_calle_24 Femenino 65 FederacióndeEmpleados NA
